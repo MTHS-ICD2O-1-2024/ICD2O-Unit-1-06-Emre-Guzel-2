@@ -2,3 +2,24 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+html {
+  font-size: 15px;
+}
+
+body {
+  background: black;
+  margin-left: 10%;
+}
+
+img {
+  width: 25%;
+  margin-top: 2rem;
+}
+
+.Next-page {
+  background: white;
+  color: blue;
+  font-size: 2rem;
+  text-decoration: none;
+}

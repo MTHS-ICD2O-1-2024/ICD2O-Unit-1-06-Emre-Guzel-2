@@ -1,0 +1,39 @@
+/* Created by: Mr. Coxall
+* Created on: Sep 2020
+* This file contains the CSS for index2.html
+*/
+
+html {
+  font-size: 15px;
+}
+
+body {
+  background: skyblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 10%;
+}
+
+#python {
+  font-size: 2rem;
+  margin-top: 2rem;
+  font-weight: 500;
+  font-style: italic;
+  background: black;
+  color: white;
+  width: 35%;
+  padding: 2rem;
+}
+
+img {
+  width: 25%;
+  margin-top: 2rem;
+}
+
+a {
+  background: darkblue;
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding: 1rem;
+  margin-top: 2rem;
+}
